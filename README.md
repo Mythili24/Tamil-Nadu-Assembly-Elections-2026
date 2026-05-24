@@ -37,18 +37,11 @@ AtliQ Media is a national news network making a one-hour TV show on the 2026 Tam
 | 🐙 GitHub | Version control and hosting |
 | 🐙 VEED | Video Recording |
 
-```
-📦 tn-election-2026
- ┣ 📂 data
- ┃ ┣ tn_elections_2026.csv
- ┃ ┣ tn_2021_results.csv
- ┃ ┗ constituency_master.csv
- ┣ 📂 dashboard
- ┃ ┗ Tamil Nadu Elections 2026.pbix
- ┣ 📂 presentation
- ┃ ┗ TN_Election_2026_Findings.pptx
- ┣ 📜 README.md
-```
+## 📂 Scrapping 2026 turnout from results.eci.gov.in 
+
+       1) execute scrapping_with_zenrows.py to extract candidate wise turnout figures for all 234 constituencies
+       2) execute calculate_electorate.py to calculate electorate 2021 = turnout 2021 / total votes 2021
+       3) execute calculate_turnout_2026.py to calculate final turnout figures for 2026
 ## 📂 Data Sources
 
 - 🏛️ **Election Commission of India** — [results.eci.gov.in](https://results.eci.gov.in)
