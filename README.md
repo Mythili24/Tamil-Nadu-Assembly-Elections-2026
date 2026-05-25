@@ -20,9 +20,8 @@ AtliQ Media is a national news network making a one-hour TV show on the 2026 Tam
 | AIADMK fell from | ** 21 to 8 ** | seats in Kongu, and from | ** 18 to 5 ** | in South
 | Chennai Metro sweep | **46.6% vote share → TVK** |
 
-### 📽️ Presentation Slides
-
-![Front Page]<img width="960" height="540" alt="TN_Election_2026_Findings" src="https://github.com/user-attachments/assets/b17ba0f9-d899-4be3-89e5-4090f27bc9c4" />
+### 📽️ Presentation Slides  
+_[TN_Elections_2026_Findings](https://github.com/Mythili24/Tamil-Nadu-Assembly-Elections-2026/blob/main/TN_Election_2026_Findings.pptx)_
 
 ### 📊 Power BI Dashboard
 ![Landing Page]<img width="1427" height="797" alt="Power BI Front Page" src="https://github.com/user-attachments/assets/d34e3953-c36f-407f-ba53-a06c902e4d5e" />
