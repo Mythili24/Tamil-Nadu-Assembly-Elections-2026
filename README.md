@@ -24,7 +24,7 @@ AtliQ Media is a national news network making a one-hour TV show on the 2026 Tam
 _[TN_Elections_2026_Findings](https://github.com/Mythili24/Tamil-Nadu-Assembly-Elections-2026/blob/main/TN_Election_2026_Findings.pptx)_
 
 ### 📊 Power BI Dashboard
-![Landing Page]<img width="1427" height="797" alt="Power BI Front Page" src="https://github.com/user-attachments/assets/d34e3953-c36f-407f-ba53-a06c902e4d5e" />
+_[Tamil Nadu Elections 2026.pbix](https://github.com/Mythili24/Tamil-Nadu-Assembly-Elections-2026/blob/main/Tamil%20Nadu%20Elections%202026.pbix)_
 
 ## 🛠️ Tools Used
 
@@ -36,9 +36,9 @@ _[TN_Elections_2026_Findings](https://github.com/Mythili24/Tamil-Nadu-Assembly-E
 | 🐙 GitHub | Version control and hosting |
 | 🐙 VEED | Video Recording |
 
-## 📂 Scrapping 2026 turnout from results.eci.gov.in 
+## 📂 Scraping 2026 turnout values from results.eci.gov.in 
 
-       1) execute scrapping_with_zenrows.py to extract candidate wise turnout figures for all 234 constituencies
+       1) Execute _[Python code](https://github.com/Mythili24/Tamil-Nadu-Assembly-Elections-2026/blob/main/scrapping_with_zenrows.py)_ to extract candidate wise turnout figures for all 234 constituencies
        2) execute calculate_electorate.py to calculate electorate 2021 = turnout 2021 / total votes 2021
        3) execute calculate_turnout_2026.py to calculate final turnout figures for 2026
 ## 📂 Data Sources
