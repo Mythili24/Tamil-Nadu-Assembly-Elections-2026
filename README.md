@@ -34,7 +34,7 @@ _[Tamil Nadu Elections 2026.pbix](https://github.com/Mythili24/Tamil-Nadu-Assemb
 | 📊 Power BI | Interactive dashboard |
 | 🎨 Claude | Slide deck design |
 | 🐙 GitHub | Version control and hosting |
-| 🐙 VEED | Video Recording |
+| 📹 VEED | Video Recording |
 
 ## 📂 Scraping 2026 turnout values from results.eci.gov.in 
 
