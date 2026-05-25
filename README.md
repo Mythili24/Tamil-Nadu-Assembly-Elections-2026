@@ -29,7 +29,7 @@ AtliQ Media is a national news network making a one-hour TV show on the 2026 Tam
 ---
 
 ### 📽️ Presentation Slides  
-_[TN_Elections_2026_Findings](https://github.com/Mythili24/Tamil-Nadu-Assembly-Elections-2026/blob/main/TN_Election_2026_Findings.pptx)_
+_[Tamil Nadu Assembly Elections 2026](https://github.com/Mythili24/Tamil-Nadu-Assembly-Elections-2026/blob/main/TN_Election_2026_Findings.pptx)_
 
 ---
 
@@ -39,7 +39,7 @@ _[Tamil Nadu Elections 2026.pbix](https://github.com/Mythili24/Tamil-Nadu-Assemb
 ---
 
 ### 🎬 Video Presentation
-_[TN_Elections_2026_Findings](https://github.com/Mythili24/Tamil-Nadu-Assembly-Elections-2026/blob/main/TN_Election_2026_Findings.pptx)_
+_[Tamil Nadu Assembly Elections 2026](https://www.youtube.com/watch?v=oqD1dv7KgAk)_
 
 ---
 
