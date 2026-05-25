@@ -13,11 +13,11 @@ AtliQ Media is a national news network making a one-hour TV show on the 2026 Tam
 
 ### 💡 Key Insights
 
-| TVK seats won on debut | **108 / 234** |
-| Constituencies flipped | **163 (70%)** |
-| DMK vote share drop | **37.7% → 24.2% (−13.7 pts)** |
-| AIADMK vote share drop | **33.3% → 21.2% (−13.7 pts)** |
-| AIADMK fell from | ** 21 to 8 ** | seats in Kongu, and from | ** 18 to 5 ** | in South
+| TVK seats won on debut | **108 / 234** |\
+| Constituencies flipped | **163 (70%)** |\
+| DMK vote share drop | **37.7% → 24.2% (−13.7 pts)** |\
+| AIADMK vote share drop | **33.3% → 21.2% (−13.7 pts)** |\
+| AIADMK fell from | ** 21 to 8 ** | seats in Kongu, and from | ** 18 to 5 ** | in South|\
 | Chennai Metro sweep | **46.6% vote share → TVK** |
 
 ### 📽️ Presentation Slides  
